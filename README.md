@@ -34,7 +34,6 @@ This project is a React JS implementation of the Educase mobile UI assessment. I
 - GitHub repository: <add-your-public-repository-link>
 - Live demo: <add-your-deployment-link>
 
-You can deploy this project to Netlify, Vercel, or any static hosting service that supports Vite applications.
 
 ## Notes
 
