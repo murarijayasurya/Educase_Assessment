@@ -31,8 +31,8 @@ This project is a React JS implementation of the Educase mobile UI assessment. I
 
 ## Deployment
 
-- GitHub repository: <add-your-public-repository-link>
-- Live demo: <add-your-deployment-link>
+- GitHub repository: https://github.com/murarijayasurya/Educase_Assessment
+- Live demo: https://educase-assessment-three.vercel.app/
 
 
 ## Notes
